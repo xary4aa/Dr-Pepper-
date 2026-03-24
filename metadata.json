@@ -1,0 +1,7 @@
+{
+  "name": "Dr Pepper Strategic Architect",
+  "description": "A high-performance, high-conversion web architecture plan for Dr Pepper.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
